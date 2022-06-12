@@ -1,35 +1,21 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/abolfazl-khan-mh/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-
-I'm Abolfazl Khan Mohammadi, an experienced frontend developer with React and cross-platform mobile application developer
-with React Native. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
-I take great care in the experience, architecture, and code quality of the things I build.
-
-
-  <img align="right" alt="GIF" src="https://github.com/Abolfazl-Khan/Abolfazl-Khan/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<h2>Abolfazl Khan Mohammadi <a href="https://www.linkedin.com/in/abolfazl-khan-mh/">
+  <img align="right" alt="Abhishek's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a></h2>
+<h3> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="30"/></h3>
 
 <br/>
 
-- 💬 Ask me about: React, React Native, Next.js, clean-architecture, , javascript
-- 👯 I’m looking to collaborate on: React and React Native projects
+Each component is a new story! My duty is to write interesting, readable and maintainable stories.<br/>
+Frontend developer experienced in implementing web applications with React.js and mobile applications with React Native. Participated in a variety of projects from large, well- established companies with more than 1 million users to small ventures Skilled in JavaScript, TypeScript, React.js, Next.js, React Native, Redux, HTML, CSS and Sass. Strong engineering professional with a Bachelor's degree from Amirkabir University of Technology - Tehran Polytechnic.
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **languages and tools:**
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,next,redux,html,css,sass,bootstrap,nodejs,git)](https://skills.thijs.gg)
 
 
+<br/>
+  <img align="right" alt="GIF" src="https://github.com/Abolfazl-Khan/Abolfazl-Khan/blob/main/code.gif?raw=true" width="500" height="320" />
 
-         
-
+- 💬 Ask me about anything related to Javascript, Typescript, React, Next.js, React Native, clean-architecture
+- 📫  How to reach me: abolfazlkhan.m@gmail.com
+- 🌱  I’m currently reading about: Svelte, Object-oriented programming (OOP), SOLD principles, Server-side rendering (SSR)
