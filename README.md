@@ -1,4 +1,4 @@
-<h2>Abolfazl Khan Mohammadi <a href="https://www.linkedin.com/in/abolfazl-khan-mh/">
+<h2>Abolfazl Khanmohammadi Hezaveh <a href="https://www.linkedin.com/in/abolfazl-khan-mh/">
   <img align="right" alt="Linkedin" width="35px" src="https://skillicons.dev/icons?i=linkedin" />
 </a></h2>
 <h3 align='center'> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="30"/></h3>
@@ -20,4 +20,4 @@
 
 - 💬 Ask me about anything related to Javascript, Typescript, React, Next.js, React Native, clean-architecture
 - 📫  How to reach me: abolfazlkhan.m@gmail.com
-- 🌱  I’m currently reading about: Svelte, Object-oriented programming (OOP), SOLID principles, Server-side rendering (SSR)
+- 🌱  I’m currently reading about: Functional testing, E2E testing, Svelte, SOLID principles, Server-side rendering (SSR)
