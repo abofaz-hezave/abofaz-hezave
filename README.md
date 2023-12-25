@@ -1,4 +1,4 @@
-<h1>Hey, I'm Abofaz 👋 </h1>
+<h1>Hey, I'm Abolfazl 👋 </h1>
 
 <strong>I'm a frontend developer, optimist, and philosopher. I currently work on <a href='https://www.satalia.com/'>Satalia</a> projects at  <a href='https://www.vml.com/'>VML</a>, where we use AI to optimize supply chain performance for our clients. Over the past five years, I have participated in a variety of projects from large, well-established companies with more than 1 million users to small ventures.
 
